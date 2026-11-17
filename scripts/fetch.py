@@ -1,7 +1,10 @@
 """Download the files in manifest.json into <maker>/<calibre>/ and record
 each one in that folder's source.json, with a Wayback Machine copy.
 
-Usage: python3 -I scripts/fetch.py manifest.json   (from the repo root)
+Usage: python3 -I scripts/fetch.py manifest.json [--archive]   (from the repo root)
+
+Without --archive the Wayback step is skipped and "archive" is recorded as
+null; a later --archive pass fills it in.
 
 Standard library only. Re-running skips files already recorded. Waits a
 second between requests so the makers' and archive's servers are not
@@ -39,6 +42,7 @@ def wayback(url):
 
 import urllib.parse  # noqa: E402
 
+ARCHIVE = "--archive" in sys.argv[2:]
 failed = []
 for i, e in enumerate(json.load(open(sys.argv[1], encoding="utf-8"))):
     os.makedirs(e["folder"], exist_ok=True)
@@ -59,7 +63,7 @@ for i, e in enumerate(json.load(open(sys.argv[1], encoding="utf-8"))):
         continue
     open(os.path.join(e["folder"], name), "wb").write(body)
     recs.append({"file": name, "kind": e["kind"], "url": e["url"], "fetched": today,
-                 "archive": wayback(e["url"]), "copyright": e["copyright"],
+                 "archive": wayback(e["url"]) if ARCHIVE else None, "copyright": e["copyright"],
                  "calibres": e["calibres"]})
     json.dump(recs, open(rec_path, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
     time.sleep(1)

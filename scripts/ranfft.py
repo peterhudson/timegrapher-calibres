@@ -45,7 +45,9 @@ def links(page, kind):
     """(path, text) for every /manufacturer/ or /caliber/ link on a page."""
     out = []
     for m in re.finditer(r'href="(?:https://ranfft\.org)?(/' + kind + r'/\d+-[^"?#]+)[^"]*"[^>]*>(.*?)</a>', page, re.S):
-        text = html.unescape(re.sub(r"<[^>]+>", " ", m.group(2)))
+        body = m.group(2)
+        head = re.search(r"<h[1-4][^>]*>(.*?)</h[1-4]>", body, re.S)  # cards: the name is the heading
+        text = html.unescape(re.sub(r"<[^>]+>", " ", head.group(1) if head else body))
         out.append((m.group(1), " ".join(text.split())))
     return out
 
@@ -73,6 +75,7 @@ makers = {}
 for page in paged("/manufacturers"):
     for path, text in links(page, "manufacturer"):
         makers.setdefault(key(text or path.split("-", 1)[1]), path)
+        makers.setdefault(key(path.split("-", 1)[1]), path)
 print(len(makers), "Ranfft manufacturers", file=sys.stderr)
 
 rows = []
