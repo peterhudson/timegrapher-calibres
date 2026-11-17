@@ -19,7 +19,7 @@ BASE = "https://ranfft.org"
 CACHE = os.path.expanduser("~/calvin-refs/ranfft")
 os.makedirs(CACHE, exist_ok=True)
 last = [0.0]
-GAP = 10  # seconds between requests; at 2 s Ranfft began refusing after ~340 pages
+GAP = float(os.environ.get("RANFFT_GAP", 10))  # seconds between requests; at 2 s Ranfft began refusing after ~340 pages
 
 
 def get(path):
@@ -123,6 +123,8 @@ for maker in sorted({t["maker"] for t in targets}):
         if not cpath:
             continue
         page = get(cpath)
+        if not page:  # matched in the list, but the caliber page was not read
+            match = "unread"
         title = re.search(r"<h1[^>]*>(.*?)</h1>", page, re.S)
         title = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", title.group(1))).split()) if title else ""
         rows.append([t["calibre"], BASE + cpath, title, figure(page, "Beat rate"), figure(page, "Lift angle"), match])
