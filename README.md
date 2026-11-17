@@ -27,13 +27,24 @@ Each `source.json` lists every file in the folder:
     "url": "https://… (the maker's original address)",
     "fetched": "2026-11-17",
     "archive": "https://web.archive.org/web/… (a Wayback Machine copy)",
-    "copyright": "Hangzhou Watch Co."
+    "copyright": "Hangzhou Watch Co.",
+    "calibres": ["Hangzhou HZ36K0E"]
   }
 ]
 ```
 
+A file several calibres cite, such as a maker's catalogue, is kept once in
+`<maker>/shared/`, and its `calibres` lists them all.
+
 `kind` is one of `spec sheet`, `drawing`, `manual`, `photo (dial side)`,
 `photo (balance side)` or `photo`.
+
+## How the files get here
+
+`scripts/build_manifest.py <timegrapher checkout>` lists the makers' files
+the calibre table links to (`manifest.json`). `scripts/fetch.py manifest.json`
+downloads them, saves a Wayback Machine copy of each, and writes the
+`source.json` records. Re-running it skips files already recorded.
 
 ## Copyright and takedown
 
