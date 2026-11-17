@@ -43,8 +43,12 @@ A file several calibres cite, such as a maker's catalogue, is kept once in
 
 `scripts/build_manifest.py <timegrapher checkout>` lists the makers' files
 the calibre table links to (`manifest.json`). `scripts/fetch.py manifest.json`
-downloads them, saves a Wayback Machine copy of each, and writes the
-`source.json` records. Re-running it skips files already recorded.
+downloads them and writes the `source.json` records; with `--archive` it
+also asks the Wayback Machine for a copy of each. Re-running it skips files
+already recorded.
+
+So far only 5 records have an `archive` link; the rest are `null` until an
+archive pass fills them in.
 
 ## Copyright and takedown
 
