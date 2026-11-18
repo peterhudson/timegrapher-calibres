@@ -1,0 +1,10987 @@
+[
+ {
+  "calibre": "Seagull ST36",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST3600",
+   "ST3621",
+   "ST 36"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Powermatic 80",
+  "maker": "ETA",
+  "family": [
+   "C07.111",
+   "C07.611",
+   "ETA C07",
+   "C07",
+   "H-10",
+   "Powermatic 80.111"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Dandong 3135",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "Dandong 31xx",
+   "DD31xx",
+   "VS31xx",
+   "DD3135",
+   "VS3135"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Dandong 3130",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "DD3130",
+   "VS3130"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Dandong 3186",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "DD3186",
+   "VS3186"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Dandong 3187",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "DD3187",
+   "VS3187"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "SH3285",
+  "maker": "Shanghai (clone)",
+  "family": [
+   "SH3285-2"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Audemars Piguet 4401",
+  "maker": "Audemars Piguet",
+  "family": [
+   "AP 4401",
+   "4401"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "APS 4401",
+  "maker": "APS (clone)",
+  "family": [
+   "4401 (clone)"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST19",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1901",
+   "ST19"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "PTS DG2813",
+  "maker": "Various Chinese makers",
+  "family": [
+   "DG2813",
+   "2813"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Agassiz 8 PCV",
+  "maker": "Agassiz",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Agassiz PCV/ AO/ Z 7",
+  "maker": "Agassiz",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Agassiz 8 AC",
+  "maker": "Agassiz",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Arogno 80",
+  "maker": "Arogno",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Arogno 151",
+  "maker": "Arogno",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Arogno 190 N",
+  "maker": "Arogno",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Audemars Piguet SB 5/7”",
+  "maker": "Audemars Piguet",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Audemars Piguet Rond 8”",
+  "maker": "Audemars Piguet",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Audemars Piguet HBT 6”",
+  "maker": "Audemars Piguet",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Audemars Piguet Ovale 6/7”",
+  "maker": "Audemars Piguet",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Audemars Piguet Ovale 8”",
+  "maker": "Audemars Piguet",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Audemars Piguet RBG 7”",
+  "maker": "Audemars Piguet",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Audemars Piguet LRB 8”",
+  "maker": "Audemars Piguet",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Audemars Piguet Rond 6/7”",
+  "maker": "Audemars Piguet",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Audemars Piguet Rond 6/7” (21,031 bph)",
+  "maker": "Audemars Piguet",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Aurore 10",
+  "maker": "Aurore",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Aurore 39",
+  "maker": "Aurore",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Aurore 41",
+  "maker": "Aurore",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Aurore 42",
+  "maker": "Aurore",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Aurore 45",
+  "maker": "Aurore",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Aurore 46",
+  "maker": "Aurore",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Aurore 122",
+  "maker": "Aurore",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Baume & Mercier 60",
+  "maker": "Baume & Mercier",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Baume & Mercier 58",
+  "maker": "Baume & Mercier",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Baumgartner 410",
+  "maker": "Baumgartner",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Baumgartner 927",
+  "maker": "Baumgartner",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Becker 6 ¾ x 8",
+  "maker": "Becker",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Becker 80",
+  "maker": "Becker",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Becker 111",
+  "maker": "Becker",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Becker 312",
+  "maker": "Becker",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Becker 313",
+  "maker": "Becker",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Becker 314",
+  "maker": "Becker",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Benrus DZ",
+  "maker": "Benrus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Benrus EL",
+  "maker": "Benrus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Benrus EW",
+  "maker": "Benrus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Benrus FT",
+  "maker": "Benrus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Benrus GA",
+  "maker": "Benrus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Benrus GC",
+  "maker": "Benrus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Benrus GG",
+  "maker": "Benrus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Benrus GL",
+  "maker": "Benrus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Benrus P",
+  "maker": "Benrus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 49",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 51",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 52",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 70",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 103",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 104",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 107",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 111",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 113",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 115",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Borg Automobile",
+  "maker": "Borg",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Buren 65",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Buren 650",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Buren 1320",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Buren 1321",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Cartier JN ovale 8",
+  "maker": "Cartier",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Cartier BF (ancien) 9",
+  "maker": "Cartier",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Chezard 110",
+  "maker": "Chezard",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Certina 230",
+  "maker": "Certina",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Certina 320/330",
+  "maker": "Certina",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Concord R. Cart",
+  "maker": "Concord",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Cressarow Baguette 3 ¾",
+  "maker": "Cressarow",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Cressarow Rond 6",
+  "maker": "Cressarow",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Cyma 43364",
+  "maker": "Cyma",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Cyma AS 1852",
+  "maker": "Cyma",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Cyma ETA 2732",
+  "maker": "Cyma",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Derby 40",
+  "maker": "Derby",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Diehl 180/180/182",
+  "maker": "Diehl",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Doxa 20",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Doxa 41",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Doxa 42",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Doxa 61",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Doxa 83",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Doxa 84",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Doxa 87",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Doxa 90",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Doxa 91",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Doxa AS 1855",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Doxa ETA 2732",
+  "maker": "Doxa",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Durowe 261/270",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Election 255",
+  "maker": "Election",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Election 275",
+  "maker": "Election",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Election 910",
+  "maker": "Election",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Election 912",
+  "maker": "Election",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Election 919",
+  "maker": "Election",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Election 481",
+  "maker": "Election",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Election 482",
+  "maker": "Election",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Election 483",
+  "maker": "Election",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Election 334 S",
+  "maker": "Election",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Elgin M 110",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin M 111",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 492",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 504",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 512",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 513",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 879",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 880",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 897",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 905",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 906",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 907",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 927",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Elgin 2722",
+  "maker": "Elgin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Enicar 746",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 953",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 2366",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 2367",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 2410",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 2480",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 2539",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 510",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 511",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 520",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 570",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 590",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 20",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 36",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 140",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 681",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 310",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 21",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 523",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 700",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 1560",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 57",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 59",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 60",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 70",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 71",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 73",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 75",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fontainemelon 26",
+  "maker": "Fontainemelon",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fontainemelon 37",
+  "maker": "Fontainemelon",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Forster 152",
+  "maker": "Forster",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Forster 189",
+  "maker": "Forster",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Forster 197",
+  "maker": "Forster",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Forster 300",
+  "maker": "Forster",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Gruen 105",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 106",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 107",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 109",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 130",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 133",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 137",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 139",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 151",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 155",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 159",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 161",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 169",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 181",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 183",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 23 OR",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 305",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 306",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 307",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 327",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 328",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 329",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 331",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 333",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 457/ 459/ 465/ 467/ 469",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 520",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 832/ 837/ 839",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 840/ 841/ 845",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 847",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 857",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Gruen 863",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Haas Rond 8",
+  "maker": "Haas",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Hamilton (Huguenin) 6 ¾“",
+  "maker": "Hamilton",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Hamilton (Huguenin) 7 ¾“",
+  "maker": "Hamilton",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Hamilton 680",
+  "maker": "Hamilton",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Hamilton AS 1920",
+  "maker": "Hamilton",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Ingersoll Poche 19",
+  "maker": "Ingersoll",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "IWC 50",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 51",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 60",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 61",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 62",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 67",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 83",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 84",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 88",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 91",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 91 (52°)",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 96",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 401/42",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 852",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 8531",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 403",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Junghans 620",
+  "maker": "Junghans",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Junghans 674",
+  "maker": "Junghans",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lanco 1721/1759/1776",
+  "maker": "Lanco",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 1300",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 800/900/901/951",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 1100",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 51",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 58",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 58 (45°)",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 081/27",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 089/30",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 089/40",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 146/30",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 145",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 146",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 147",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 172/173",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 606",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 27-CH27-1276",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 4500",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 24 CH",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 19N20R",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 15 CH",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 18 SS",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 8000",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 7510",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "LIP R 100 rond",
+  "maker": "LIP",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "LIP R 104 rond",
+  "maker": "LIP",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Longines 13.15 (54°)",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Longines 13.3",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Longines 14.17 (55°)",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Longines 22 AS",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Longines 22 LS",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Longines 25.17 ABC",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Longines 37.93",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Longines 37.9ABC",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Longines 292",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Longines 380",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Martel 730 (44°)",
+  "maker": "Martel",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Martel 830 (49°)",
+  "maker": "Martel",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Martel 1510",
+  "maker": "Martel",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 100",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 140",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 150",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Marvin 160",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 310/310S",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 320",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 515",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 520/520S/C/SC",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 525/540/540S",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 560",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 580/580C",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 620/620C",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 640",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 700/700C",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 708",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 717",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Marvin 720",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 721",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 723",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Marvin 726",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 729",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Marvin 732",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 741/744",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 742",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 758",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 767",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 777/778",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 795",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 860/890/890S",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 969",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 1560",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 7510",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Mauthe 15",
+  "maker": "Mauthe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Mauthe 42",
+  "maker": "Mauthe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Mauthe 52",
+  "maker": "Mauthe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Merrimont Ovale 7",
+  "maker": "Merrimont",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Meylan Rond 8",
+  "maker": "Meylan",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Meylan Baguette 3 ½",
+  "maker": "Meylan",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Meylan court 7",
+  "maker": "Meylan",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Meylan court 8",
+  "maker": "Meylan",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Meylan ½ Baguette 3 ¾",
+  "maker": "Meylan",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Meylan Baguette 7 ¼ x3",
+  "maker": "Meylan",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Meylan Rond 6 ¾",
+  "maker": "Meylan",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Meylan Rectangle 8",
+  "maker": "Meylan",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Meylan Rond 39669",
+  "maker": "Meylan",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Moeris 220",
+  "maker": "Moeris",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Moeris 400",
+  "maker": "Moeris",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Movado 5-45",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 5-45 (53°)",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 16954",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 99 p",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 650",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 55-65",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 53-54-56-57-395-398",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 25-27-28",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 165-167-15-17-575-578-579",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 166-169-16-19",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 335-345-1005-1105",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 105-1 07 -190-85",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 95M-375-377",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 122-123-125-127-128-128SC-129",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 540-545",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 800M-820M",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 135",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Movado 245",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Movado 380",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Movado 388",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Movado 531",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Movado 536",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Movado 538",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Movado 2562 PC",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Movado 16 019",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Movado 40 607",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Ulysse Nardin sideral 50 mm",
+  "maker": "Ulysse Nardin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Ulysse Nardin temps sideral 70 mm",
+  "maker": "Ulysse Nardin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Ulysse Nardin N 6",
+  "maker": "Ulysse Nardin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Ulysse Nardin N 24",
+  "maker": "Ulysse Nardin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Ulysse Nardin M Gr F 95 mm",
+  "maker": "Ulysse Nardin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Ulysse Nardin M 70 F",
+  "maker": "Ulysse Nardin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Ulysse Nardin M 8.100",
+  "maker": "Ulysse Nardin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Ulysse Nardin ETA 2732",
+  "maker": "Ulysse Nardin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Ulysse Nardin 24 CCR 1/10",
+  "maker": "Ulysse Nardin",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Otero 62/162",
+  "maker": "Otero",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Otero 64",
+  "maker": "Otero",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Otero 1632",
+  "maker": "Otero",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Otero 262",
+  "maker": "Otero",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Peseux 320/325",
+  "maker": "Peseux",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Phenix 130-140",
+  "maker": "Phenix",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Phenix 180-190",
+  "maker": "Phenix",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Phenix 432-781",
+  "maker": "Phenix",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Phenix FEF 370",
+  "maker": "Phenix",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Phenix AS 1012",
+  "maker": "Phenix",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Piaget 3P",
+  "maker": "Piaget",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Piaget 9P",
+  "maker": "Piaget",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Portescap Secticon",
+  "maker": "Portescap",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Portescap Mouvement",
+  "maker": "Portescap",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Record 109",
+  "maker": "Record",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Record 170-174",
+  "maker": "Record",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Record 022-18",
+  "maker": "Record",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Record 431-433-435",
+  "maker": "Record",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Revue Thommen 30/31",
+  "maker": "Revue Thommen",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Revue Thommen 51/52/53",
+  "maker": "Revue Thommen",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1030",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1635",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seiko 6 ¾",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seiko 6 ¾ (36,000 bph)",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seiko 11 ½",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seiko 12 ½",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seiko 12 ½ (36,000 bph)",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seiko 6159 (52.4°)",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Touchon Rectangle 4",
+  "maker": "Touchon",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Universal Geneve 220",
+  "maker": "Universal Geneve",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Universal Geneve 591",
+  "maker": "Universal Geneve",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Universal Geneve 592",
+  "maker": "Universal Geneve",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 153",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 439",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 446",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 453",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 1001",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 1002",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 1003",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 1071",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 1072",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 1120",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 1426",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "VEB Glashütte Chronometer",
+  "maker": "VEB Glashütte",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Waltham Baguette 400",
+  "maker": "Waltham",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Wempe Chronometre",
+  "maker": "Wempe",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Zenith 106",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zenith 120",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zenith 135",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zenith 18-23-3 A",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zodiac Dynotron 11 ½",
+  "maker": "Zodiac",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Zodiac AS1855 (49°)",
+  "maker": "Zodiac",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1001",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1188",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1200",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1203",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1220",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1280",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1287",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1290",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1320",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1323",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1336",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1364",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1393",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1430",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1491",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1510",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1530",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1533",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1590",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1852",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1854",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "A. Schild 1855",
+  "maker": "A. Schild",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Ebauches Bettlach 1366",
+  "maker": "Ebauches Bettlach",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Ebauches Bettlach 8021N",
+  "maker": "Ebauches Bettlach",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 120",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 130",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 20",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 30",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 55",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 68",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 81",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 85",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 91",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bifora 934",
+  "maker": "Bifora",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Blancpain 1106",
+  "maker": "Blancpain",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Blancpain 1151",
+  "maker": "Blancpain",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bremont ENG375",
+  "maker": "Bremont",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bulova 10 COAC",
+  "maker": "Bulova",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bulova 10 CPAC",
+  "maker": "Bulova",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bulova 10 CRAC",
+  "maker": "Bulova",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bulova 11 BLACB",
+  "maker": "Bulova",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bulova 14 EFAD",
+  "maker": "Bulova",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bulova 5 AD",
+  "maker": "Bulova",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bulova 5 AR",
+  "maker": "Bulova",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Bulova 5 AT",
+  "maker": "Bulova",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Cartier 120",
+  "maker": "Cartier",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Certina 25-02",
+  "maker": "Certina",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Certina 25-021",
+  "maker": "Certina",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Certina 25-861",
+  "maker": "Certina",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Certina 410 (52°)",
+  "maker": "Certina",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Certina 411",
+  "maker": "Certina",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Certina 414",
+  "maker": "Certina",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Cupillard 233 68",
+  "maker": "Cupillard",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Diehl 180",
+  "maker": "Diehl",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Diehl 182",
+  "maker": "Diehl",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 261",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 270",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 440",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 450",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 450-2",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 450-3",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 542",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 570",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 59",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 590",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 600",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 605",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 69",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 70",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 72",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 753",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 89",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Durowe 89-1",
+  "maker": "Durowe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Ebel E137",
+  "maker": "Ebel",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1010",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1080",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1100",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1120",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1150",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1152",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1170",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1190",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1218",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1220",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1240",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1256",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1260",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1280",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1311",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1312",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1317",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1417",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1418",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1419",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1420",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1435",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1437",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1510",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 1536",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2000",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2000-1",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2094",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2325",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2345",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2367",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2375",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2382",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2410",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2480",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2892A2 (52°)",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 2893-2",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 7001",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 7750 (52°)",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 853",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA 953",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA A07161",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA A07231",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA C01,211",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA C07,661",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "ETA C07,811",
+  "maker": "ETA",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Eterna 12821",
+  "maker": "Eterna",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Eterna 12824",
+  "maker": "Eterna",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Excelsior Park 01.04.68",
+  "maker": "Excelsior Park",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 101",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 102",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 139",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 15",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 180",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 25",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 53",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 70",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 133/69 AD21",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 1AD",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 1C",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 233/68",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 2C",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 4612 A",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 302",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 370",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 383",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 390",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 4010",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 4020",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 465",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 695",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 720",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 780",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Felsa 800",
+  "maker": "Felsa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fleurier 190",
+  "maker": "Fleurier",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fleurier 350",
+  "maker": "Fleurier",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fleurier 371",
+  "maker": "Fleurier",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fleurier 400",
+  "maker": "Fleurier",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fleurier 430",
+  "maker": "Fleurier",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fontainemelon 27",
+  "maker": "Fontainemelon",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fontainemelon 28",
+  "maker": "Fontainemelon",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fontainemelon 34",
+  "maker": "Fontainemelon",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fontainemelon 552",
+  "maker": "Fontainemelon",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fontainemelon 59N",
+  "maker": "Fontainemelon",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fontainemelon 70",
+  "maker": "Fontainemelon",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Fontainemelon 75",
+  "maker": "Fontainemelon",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Frederic Piguet 1181",
+  "maker": "Frederic Piguet",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Frederic Piguet 1185",
+  "maker": "Frederic Piguet",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Frederic Piguet 1186",
+  "maker": "Frederic Piguet",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 0",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 10",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 13",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 14",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 15",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 16",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 17",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 19",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 20",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 21",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 22",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 23",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 24",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 27",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 81",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 82",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Gruen V4",
+  "maker": "Gruen",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "H. Moser & Cie HMC 200",
+  "maker": "H. Moser & Cie",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 30110",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 37526",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 401 (56°)",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 79350",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 887",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 219",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 424",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 428",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 438",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 448",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 449",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 450",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 451",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 452",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 460",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 463",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 476",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 478",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 479",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 480",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 481",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 484",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 488",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 489",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 489/1",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 490",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 491",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 497",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 497/1",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 517",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 5,25 Ligne",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 800",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 846/1",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 849",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 854A",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 878",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 925",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Jaeger-LeCoultre 928",
+  "maker": "Jaeger-LeCoultre",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 1200",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 200",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 400",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 600",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 172",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 173",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lanco 857",
+  "maker": "Lanco",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Landeron 186",
+  "maker": "Landeron",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Landeron 48",
+  "maker": "Landeron",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 1281",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 1345",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 15CHT",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 2210",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 2220",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 2310",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 2520",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 27-CH27-12",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 5100",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Lemania 873",
+  "maker": "Lemania",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "LIP 118",
+  "maker": "LIP",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "LIP 119",
+  "maker": "LIP",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "LIP 13-03",
+  "maker": "LIP",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Longines 15,26",
+  "maker": "Longines",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 310",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 310S",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 500",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 510",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 520",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 525",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 540",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 580",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 620",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 700",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 700C",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 741",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 744",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 751",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 777",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 778",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 860",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 890",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 890S",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Moeris 10 1/2",
+  "maker": "Moeris",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Molnia 36XX",
+  "maker": "Molnia",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 01.05.45",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 1005",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 105",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 107",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 1105",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 115",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 116",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 118",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 122",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 123",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 125",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 127",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 128",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 128SC",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 129",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 150MN",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 155",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 157",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 159",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 190",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 205",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 221 A",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 222",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 223 A",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 224",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 224 A",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 25",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 260 M",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 261",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 261 A",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 27",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 28",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 335",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 345",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 398",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 470",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 473",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 473SC",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 475",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 475SC",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 477",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 53",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 54",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 540",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 55",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 56",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 57",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 800M",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 820M",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 85",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 900",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 351",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 352",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 364",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 367",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 371 (55°)",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 372 (55°)",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 389 (56°)",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 407 (43°)",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 408 (43°)",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 420 (55°)",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 422",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 423 (53°)",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 442",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 443",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 450",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 451",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 520",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 521",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Roamer 522",
+  "maker": "Roamer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Nomos alpha",
+  "maker": "Nomos",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Nomos DUW4101",
+  "maker": "Nomos",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1001",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1002",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1010",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1020",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1030",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1120",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1151",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1152",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1164",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 162",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1861",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1863",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 1866",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 211",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 212",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 23,4 SC",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 2500",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 2500A",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 2500B",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 2500C",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 261",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 262",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 265",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 266",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 267",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 268",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 269",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 280",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 281",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 281 (50°)",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 28,10 R,A, SC,PC",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 283",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 284",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 285",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 301",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 302",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 30T2",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 30T2SC",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 3220",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 3220 (52°)",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 341",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 342",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 343",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 354",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 3606",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 481",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 482",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 491",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 501",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 502",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 503",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 504",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 511",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 551",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 552",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 560",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 561",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 563",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 564",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 601",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 602",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 611",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 651",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 671",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 672",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 680",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 681",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 684",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 751",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 861",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 862",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 863",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 864",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 865",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 866",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 867",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 889",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 910",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 911",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Omega 920",
+  "maker": "Omega",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Patek Philippe 13 Ligne C",
+  "maker": "Patek Philippe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Patek Philippe 17 Ligne 1",
+  "maker": "Patek Philippe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Patek Philippe 17 Ligne 2",
+  "maker": "Patek Philippe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Patek Philippe 27-460M",
+  "maker": "Patek Philippe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Patek Philippe 315",
+  "maker": "Patek Philippe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Patek Philippe 324SC (51°)",
+  "maker": "Patek Philippe",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Peseux 170",
+  "maker": "Peseux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Peseux 220",
+  "maker": "Peseux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Peseux 280",
+  "maker": "Peseux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Peseux 340",
+  "maker": "Peseux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Phenix 132",
+  "maker": "Phenix",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Phenix 902",
+  "maker": "Phenix",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Pobeda K26",
+  "maker": "Pobeda",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Poljot 3017",
+  "maker": "Poljot",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "PUW 100",
+  "maker": "PUW",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Raketa 2623",
+  "maker": "Raketa",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1035",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1050",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1055",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1056",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1065",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1161",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1201",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1202",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1203",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1204",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1205",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1206",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1207",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1208",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1209",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1211",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1212",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1213",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1214",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1221",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1222",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1223",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1224",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1301",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1302",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1303",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1304",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1305",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1306",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1307",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1308",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1309",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1310",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1311",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1312",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1313",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1314",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1521",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1522",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1523",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1524",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1531",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1532",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1533",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1534",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1535",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1557",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1558",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1559",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1560",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1561",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1562",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1563",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1564",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1566",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1567",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1568",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1569",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1571",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1572",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1573",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1574",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1576",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1577",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1578",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 1579",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 2031",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 2032",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 2033",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 2034",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 281",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 3035",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 3075",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 710",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 730",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 740",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Ruhla 24-34",
+  "maker": "Ruhla",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4006A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4006A (58.5°)",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4205A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4205B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4205C",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4206A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4206B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4206C",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4207A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4207B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4207C",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4208A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4208B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4225A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4225B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4227A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4227B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4502A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4R15A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4R16A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4S12",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 4S15",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5207",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5208",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5209",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5210",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5211",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5212",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5213",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5214",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5215",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5216",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5217",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5218",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5219",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5220",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5221",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5222",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5223",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5224",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5225",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5226",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5227",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5228",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5229",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5230",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5231",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5232",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5233",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5234",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5235",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5236",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5237",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5238",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5239",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5240",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5241",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5242",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5243",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5244",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 5646",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6105B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6106C",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6117A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6117B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6119C",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6139A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6139B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6156A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6159A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6159A (52.5°)",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6159B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6159B (52.5°)",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6245",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6309A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6R20A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6R21A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 6R24A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 7002",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 7009A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 719",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 7S25A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 7S35A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 7S55B",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 8R28A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko 8R39A",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Seiko NH05",
+  "maker": "Seiko",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Slava 5498",
+  "maker": "Slava",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Standard 1800",
+  "maker": "Standard",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Standard 1801",
+  "maker": "Standard",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Standard 1802",
+  "maker": "Standard",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Standard 1803",
+  "maker": "Standard",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Standard 69-21",
+  "maker": "Standard",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Standard 96",
+  "maker": "Standard",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Standard 969",
+  "maker": "Standard",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Standard 9,69-4",
+  "maker": "Standard",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Timor 6060",
+  "maker": "Timor",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Tissot 13-06",
+  "maker": "Tissot",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Tissot 15-02",
+  "maker": "Tissot",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Tissot 15-03",
+  "maker": "Tissot",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Tissot 17-05",
+  "maker": "Tissot",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Tissot 871",
+  "maker": "Tissot",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 180",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 199",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 200",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 510",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 560",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 580",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 630",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6471",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6472",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6473",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6474",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6566",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6567",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6568",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6569",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6570",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6571",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6572",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6573",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6574",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6575",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6576",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6577",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6578",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6579",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6581",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6582",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6583",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6584",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6585",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 6586",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Universal Geneve 281",
+  "maker": "Universal Geneve",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Universal Geneve 481",
+  "maker": "Universal Geneve",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin 1121",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vacheron Constantin Ligne Ovale",
+  "maker": "Vacheron Constantin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Valjoux 11",
+  "maker": "Valjoux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Valjoux 7751",
+  "maker": "Valjoux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Valjoux 7753",
+  "maker": "Valjoux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Valjoux 84",
+  "maker": "Valjoux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Venus 175",
+  "maker": "Venus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Venus 178",
+  "maker": "Venus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Venus 188",
+  "maker": "Venus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vostok 22XX",
+  "maker": "Vostok",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vostok 24XX",
+  "maker": "Vostok",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Vostok 28XX",
+  "maker": "Vostok",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Wittnauer 6 NS",
+  "maker": "Wittnauer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Wittnauer 6 W",
+  "maker": "Wittnauer",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Yema 2000",
+  "maker": "Yema",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Yema MBP1000",
+  "maker": "Yema",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zenith 175",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zenith 400",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zenith 410",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zenith 420",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buren 01",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buren 02",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buren 04",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buren 06",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buren 08",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buren 11",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buren 17",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buren 86",
+  "maker": "Buren",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 435",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 605",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 605D",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 625",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 645",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 665",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 695",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 705",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 705D",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 805",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 805D",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 910",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 913",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 917",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 923",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 963",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 967",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 973",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Buser 980",
+  "maker": "Buser",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Cartier 230",
+  "maker": "Cartier",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 853",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1180",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1100",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1150",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1152",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1170",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1190",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1218",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1220",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1240",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1256",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1260",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1280",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1311",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1312",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 1317",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 2325",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 2345",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 2375",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Enicar 2382",
+  "maker": "Enicar",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 5",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 40",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 95",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 170",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 672",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 680",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 710",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 792",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 980",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 982",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 1009",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 1010",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 1012",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 1120",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 1121",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 1124",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 1125",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 1126",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 1290",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Favre-Leuba 1292",
+  "maker": "Favre-Leuba",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 190",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 310",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 350",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 371",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 400",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "France Ebauches 430",
+  "maker": "France Ebauches",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Girard Perregaux 00",
+  "maker": "Girard Perregaux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "IWC 32111",
+  "maker": "IWC",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 800",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 900",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 901",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kasper 951",
+  "maker": "Kasper",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Kienzle 174",
+  "maker": "Kienzle",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Landeron 520",
+  "maker": "Landeron",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Landeron 2124",
+  "maker": "Landeron",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "LIP 13.3",
+  "maker": "LIP",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 520S",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 520C",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 520CS",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 540S",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 580C",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 620C",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 702",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Marvin 710",
+  "maker": "Marvin",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 6-46",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 15",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 16",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 17",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 19",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 65",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 90M",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 95M",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 165",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 167",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 365",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 368",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 369",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 375",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 377",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 431A",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 438",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 575",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 578",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Movado 579",
+  "maker": "Movado",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Peseux 172",
+  "maker": "Peseux",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 160",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 270",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Rolex 600",
+  "maker": "Rolex",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 176",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 190",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 541",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 600",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 620",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Unitas 640",
+  "maker": "Unitas",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Venus 180",
+  "maker": "Venus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Venus 189",
+  "maker": "Venus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Venus 220",
+  "maker": "Venus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Venus 240",
+  "maker": "Venus",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zenith 83/4F",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zenith 133.8",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Zenith 177",
+  "maker": "Zenith",
+  "family": [],
+  "need": [
+   "bph"
+  ]
+ },
+ {
+  "calibre": "Peacock SL4609",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL4609"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL4801",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL4801"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL4802",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL4802"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL4817",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL4817"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL4858",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL4858"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL5211",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL5211"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL5212",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL5212"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL5215",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL5215"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL5216",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL5216"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL5301",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL5301"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL5710",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL5710"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL5711",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL5711"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL5620K",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL5620K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL5811",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL5811"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Peacock SL5812",
+  "maker": "Peacock (Dandong)",
+  "family": [
+   "SL5812"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH8501",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH8501"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH8002",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH8002"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH8003-2",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH8003-2"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH8032",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH8032"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH8033",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH8033"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH8056",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH8056"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH8058",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH8058"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH8087",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH8087"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH7152",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH7152"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH7155",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH7155"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH7156",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH7156"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH7157",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH7157"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH7158-1",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH7158-1"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH7301",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH7301"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH6203",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH6203"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH5031",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH5031"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH4033-1",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH4033-1"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH3005P",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH3005P"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH3034",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH3034"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH2019-2P",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH2019-2P"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH2032P",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH2032P"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH1008P",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH1008P"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Jinghe JH1025P",
+  "maker": "Shanghai Jinghe (clone)",
+  "family": [
+   "JH1025P"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST6103K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TYDSK",
+   "ST6103K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1701",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2706",
+   "ST1701"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1700",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2705",
+   "ST1700"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1612",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2806",
+   "ST1612"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2500",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2500",
+   "ST2500"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1601K1",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2808",
+   "ST1601K1"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2551K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2551SK",
+   "ST2551K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2625",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2625",
+   "ST2625"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2502K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2500SK",
+   "ST2502K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2502",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2502",
+   "ST2502"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8000",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY800",
+   "ST8000"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1818",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY1818",
+   "ST1818"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2553JK1",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2553JK1",
+   "ST2553JK1"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2505",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2505",
+   "ST2505"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1812",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY2661",
+   "ST1812"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8006",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY806",
+   "ST8006"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8003",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY803",
+   "ST8003"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8002",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY802",
+   "ST8002"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8001",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "TY801",
+   "ST8001"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "VR3285",
+  "maker": "Shanghai (clone)",
+  "family": [],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seiko 7S36A",
+  "maker": "Seiko",
+  "family": [
+   "7S36A"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Miyota 82S0",
+  "maker": "Miyota (Citizen)",
+  "family": [
+   "82S0"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Miyota 82S5",
+  "maker": "Miyota (Citizen)",
+  "family": [
+   "82S5"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Miyota 82S7",
+  "maker": "Miyota (Citizen)",
+  "family": [
+   "82S7"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Miyota 8N24",
+  "maker": "Miyota (Citizen)",
+  "family": [
+   "8N24"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Miyota 8N40",
+  "maker": "Miyota (Citizen)",
+  "family": [
+   "8N40"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Miyota 9075",
+  "maker": "Miyota (Citizen)",
+  "family": [
+   "9075"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Patek 240 Clone",
+  "maker": "Shanghai (clone)",
+  "family": [
+   "PP240 Clone",
+   "Patek Philippe 240 Clone"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "PUW 360",
+  "maker": "PUW",
+  "family": [
+   "PUW 1360",
+   "PUW 361",
+   "PUW 1361",
+   "PUW 362",
+   "PUW 1362",
+   "PUW 363",
+   "PUW 1363",
+   "PUW 364",
+   "PUW 1364"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1601K2",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1601K2"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1602K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1602K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1602K2",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1602K2"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1603K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1603K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1612-3",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1612-3"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST16S4",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST16S4"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1791",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1791"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1901K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1901K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1902",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1902"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1905",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1905"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1907",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1907"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST1908",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST1908"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2109",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2109"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2146",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2146"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2147",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2147"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2150",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2150"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2153",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2153"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2162",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2162"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2502JK",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2502JK"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2504",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2504"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2510",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2510"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2525",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2525"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2527",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2527"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2528",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2528"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2545",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2545"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2551K2",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2551K2"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2553",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2553"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2573",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2573"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2575",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2575"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2579",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2579"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2585",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2585"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2590",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2590"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST3100",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST3100"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST3600K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST3600K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST3620",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST3620"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST3624",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST3624"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST3640",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST3640"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST4100",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST4100"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST4200",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST4200"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST6102K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST6102K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST6D1K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST6D1K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST6K2",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST6K2"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8000K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8000K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8000W",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8000W"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8001K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8001K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8002Z",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8002Z"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8004",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8004"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8004R",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8004R"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8004Z",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8004Z"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8005",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8005"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8007",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8007"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8030",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8030"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8080",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8080"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8080-2",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8080-2"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8080K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8080K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8081",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8081"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8082",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8082"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8083",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8083"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8090",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8090"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8103",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8103"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8160",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8160"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8200",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8200"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8210K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8210K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8230",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8230"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8230-1",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8230-1"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8230K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8230K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8230W",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8230W"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8230W-1",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8230W-1"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8235",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8235"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8240W",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8240W"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8242",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8242"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8250",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8250"
+  ],
+  "need": [
+   "bph",
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8260",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8260"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8260K",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8260K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8260W",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8260W"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8262",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8262"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8263",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8263"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8267",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8267"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8400",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8400"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST8520",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST8520"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST9000",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST9000"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST9100",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST9100"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST9101",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST9101"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST9200",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST9200"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST9250",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST9250"
+  ],
+  "need": [
+   "bph",
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Seagull ST2555",
+  "maker": "Tianjin Seagull",
+  "family": [
+   "ST2555"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Tongji",
+  "maker": "Tongji (Chinese standard movement)",
+  "family": [
+   "Tongyi",
+   "SZ-1",
+   "SS7",
+   "ZB-1",
+   "ZSE",
+   "Chinese standard movement",
+   "CSM"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Shanghai Watch Factory SS1A",
+  "maker": "Shanghai Watch Factory",
+  "family": [
+   "SS1A"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ },
+ {
+  "calibre": "Shanghai Watch Factory SS1K",
+  "maker": "Shanghai Watch Factory",
+  "family": [
+   "SS1K"
+  ],
+  "need": [
+   "lift_angle_deg"
+  ]
+ }
+]

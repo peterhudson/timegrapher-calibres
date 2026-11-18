@@ -1,0 +1,132 @@
+[
+  {
+    "file": "7S26A&7S36A.pdf",
+    "kind": "spec sheet",
+    "url": "https://seikoserviceusa.com/uploads/datasheets/7S26A%267S36A.pdf",
+    "fetched": "2026-11-17",
+    "archive": "http://web.archive.org/web/20260715134823/https://seikoserviceusa.com/uploads/datasheets/7S26A&7S36A.pdf",
+    "copyright": "Seiko",
+    "calibres": [
+      "Seiko 7S26",
+      "Seiko 7S26A",
+      "Seiko 7S36A"
+    ]
+  },
+  {
+    "file": "7S26B_36B.pdf",
+    "kind": "spec sheet",
+    "url": "https://seikoserviceusa.com/uploads/datasheets/7S26B_36B.pdf",
+    "fetched": "2026-11-17",
+    "archive": "http://web.archive.org/web/20260718021452/https://www.seikoserviceusa.com/uploads/datasheets/7S26B_36B.pdf",
+    "copyright": "Seiko",
+    "calibres": [
+      "Seiko 7S26",
+      "Seiko 7S26B",
+      "Seiko 7S36B"
+    ]
+  },
+  {
+    "file": "7S26C_36C.pdf",
+    "kind": "spec sheet",
+    "url": "https://seikoserviceusa.com/uploads/datasheets/7S26C_36C.pdf",
+    "fetched": "2026-11-17",
+    "archive": "http://web.archive.org/web/20260702063148/https://www.seikoserviceusa.com/uploads/datasheets/7S26C_36C.pdf",
+    "copyright": "Seiko",
+    "calibres": [
+      "Seiko 4R35A",
+      "Seiko 4R35B",
+      "Seiko 4R36A",
+      "Seiko 4R37A",
+      "Seiko 4R38A",
+      "Seiko 4R39A",
+      "Seiko 6R15",
+      "Seiko 6R15A",
+      "Seiko 6R15B",
+      "Seiko 6R15C",
+      "Seiko 6R15D",
+      "Seiko 7S25C",
+      "Seiko 7S26",
+      "Seiko 7S26A",
+      "Seiko 7S26B",
+      "Seiko 7S26C",
+      "Seiko 7S35C",
+      "Seiko 7S36A",
+      "Seiko 7S36B",
+      "Seiko 7S36C"
+    ]
+  },
+  {
+    "file": "4R35B_4R36A.pdf",
+    "kind": "spec sheet",
+    "url": "https://seikoserviceusa.com/uploads/datasheets/4R35B_4R36A.pdf",
+    "fetched": "2026-11-17",
+    "archive": null,
+    "copyright": "Seiko",
+    "calibres": [
+      "Seiko 4R35B",
+      "Seiko 4R36A"
+    ]
+  },
+  {
+    "file": "4R38A_4R39A.pdf",
+    "kind": "spec sheet",
+    "url": "https://seikoserviceusa.com/uploads/datasheets/4R38A_4R39A.pdf",
+    "fetched": "2026-11-17",
+    "archive": null,
+    "copyright": "Seiko",
+    "calibres": [
+      "Seiko 4R38A",
+      "Seiko 4R39A"
+    ]
+  },
+  {
+    "file": "6R15AB.pdf",
+    "kind": "spec sheet",
+    "url": "https://seikoserviceusa.com/uploads/datasheets/6R15AB.pdf",
+    "fetched": "2026-11-17",
+    "archive": null,
+    "copyright": "Seiko",
+    "calibres": [
+      "Seiko 6R15",
+      "Seiko 6R15A",
+      "Seiko 6R15B"
+    ]
+  },
+  {
+    "file": "6R15CD.pdf",
+    "kind": "spec sheet",
+    "url": "https://seikoserviceusa.com/uploads/datasheets/6R15CD.pdf",
+    "fetched": "2026-11-17",
+    "archive": null,
+    "copyright": "Seiko",
+    "calibres": [
+      "Seiko 6R15",
+      "Seiko 6R15C",
+      "Seiko 6R15D"
+    ]
+  },
+  {
+    "file": "7S25C_35C.pdf",
+    "kind": "spec sheet",
+    "url": "https://seikoserviceusa.com/uploads/datasheets/7S25C_35C.pdf",
+    "fetched": "2026-11-17",
+    "archive": null,
+    "copyright": "Seiko",
+    "calibres": [
+      "Seiko 7S25C",
+      "Seiko 7S35C"
+    ]
+  },
+  {
+    "file": "6R31A_38A.pdf",
+    "kind": "spec sheet",
+    "url": "https://seikoserviceusa.com/uploads/datasheets/6R31A_38A.pdf",
+    "fetched": "2026-11-17",
+    "archive": null,
+    "copyright": "Seiko",
+    "calibres": [
+      "Seiko 6R31A",
+      "Seiko 6R38A"
+    ]
+  }
+]
