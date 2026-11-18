@@ -69,5 +69,6 @@ The rest of this repository (`source.json` files, README and scripts) is
 released under CC0 1.0, the same as the project's recordings corpus, except
 `research/ranfft.tsv`. That file holds figures read from Ranfft's watch
 movement database ([ranfft.org](https://ranfft.org)), which are credited to
-Ranfft and not covered by CC0. Ranfft limits automated reading, and its
-pages are not read in bulk.
+Ranfft and not covered by CC0. The project read Ranfft slowly, only for
+specific gaps in the table, and stopped when Ranfft limited automated
+reading.

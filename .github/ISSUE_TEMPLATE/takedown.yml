@@ -1,7 +1,6 @@
 name: Takedown request
 description: Ask for a maker's file to be removed from this repository.
 title: "Takedown: "
-labels: ["takedown"]
 body:
   - type: markdown
     attributes:
