@@ -53,10 +53,22 @@ archive pass fills them in.
 ## Copyright and takedown
 
 The makers' files here are the makers' own work, and their copyright stays
-with them. Each one is copied unchanged from a page the maker published,
-and `source.json` names that page. If you hold the rights to a file here
-and want it removed, open an issue or email the project's owner, and it
-will be taken down.
+with them. They are **not** covered by this repository's CC0 dedication.
+Each maker's folder has a `NOTICE` saying so. Each file is copied unchanged
+from the maker's own site, and its `source.json` record gives the address it
+was downloaded from (`url`).
+
+**To have a file removed**, open a
+[takedown request](https://github.com/peterhudson/timegrapher-calibres/issues/new?template=takedown.yml)
+naming the file, or contact the repository's owner through GitHub. The file
+and its record are then deleted from `main` and the app stops linking to it.
+Earlier commits still hold a copy until the history is rewritten; whether to
+do that is the owner's decision for each request.
 
 The rest of this repository (`source.json` files, README and scripts) is
-released under CC0 1.0, the same as the project's recordings corpus.
+released under CC0 1.0, the same as the project's recordings corpus, except
+`research/ranfft.tsv`. That file holds figures read from Ranfft's watch
+movement database ([ranfft.org](https://ranfft.org)), which are credited to
+Ranfft and not covered by CC0. The project read Ranfft slowly, only for
+specific gaps in the table, and stopped when Ranfft limited automated
+reading.

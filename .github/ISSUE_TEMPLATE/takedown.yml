@@ -1,0 +1,26 @@
+name: Takedown request
+description: Ask for a maker's file to be removed from this repository.
+title: "Takedown: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you hold the rights to a file in this repository and want it removed, tell us which file. It will be deleted from `main` and the Timegrapher app will stop linking to it. Earlier commits keep a copy until the history is rewritten; the repository's owner decides that for each request.
+  - type: textarea
+    id: files
+    attributes:
+      label: Files to remove
+      description: Paths in this repository, one per line (for example hangzhou/hangzhou-hz36k0e/ABUIABA9GAAg.pdf), or a whole folder.
+    validations:
+      required: true
+  - type: input
+    id: holder
+    attributes:
+      label: Rights holder
+      description: The company or person who holds the rights, and your role there.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
