@@ -65,6 +65,9 @@ for i, e in enumerate(json.load(open(sys.argv[1], encoding="utf-8"))):
     recs.append({"file": name, "kind": e["kind"], "url": e["url"], "fetched": today,
                  "archive": wayback(e["url"]) if ARCHIVE else None, "copyright": e["copyright"],
                  "calibres": e["calibres"]})
+    recs[-1]["sha256"] = hashlib.sha256(body).hexdigest()
+    if "licence" in e:
+        recs[-1]["licence"] = e["licence"]
     json.dump(recs, open(rec_path, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
     time.sleep(1)
 print(len(failed), "failed", *failed, sep="\n", file=sys.stderr)

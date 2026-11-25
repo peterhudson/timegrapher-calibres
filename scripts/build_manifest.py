@@ -6,6 +6,7 @@ Reads the table's sources and the research link files, keeps files on the
 makers' own sites, and prints one entry per file with the folder it goes in.
 """
 import json
+import os
 import re
 import sys
 
@@ -91,5 +92,10 @@ for url, es in by_url.items():
     del e["calibre"]
     merged.append(e)
 out = merged
+# Files found by hand (for example from a calibre check report) that the
+# table's sources do not name; their records carry a "licence" note.
+here = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "research", "added-by-hand.json")
+known = {e["url"] for e in out}
+out += [e for e in json.load(open(here, encoding="utf-8")) if e["url"] not in known]
 json.dump(out, sys.stdout, indent=1, ensure_ascii=False)
 print(len(out), "files", file=sys.stderr)

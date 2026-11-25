@@ -39,10 +39,27 @@ A file several calibres cite, such as a maker's catalogue, is kept once in
 `kind` is one of `spec sheet`, `drawing`, `manual`, `photo (dial side)`,
 `photo (balance side)` or `photo`.
 
+Records written since 2026-11-25 also carry `sha256` (of the file as
+downloaded) and, for files added by hand, a `licence` note saying what
+terms the source states.
+
+## Addresses kept without the file
+
+`addresses.json` lists documents and photos for the calibres that are **not**
+copied here, only their addresses: each record gives the calibres, the
+kind, the address, the date it was checked, the copyright holder, the
+source's terms quoted word for word where it states them, and why the
+file is not kept. A file is kept as an address only when its source
+forbids copying or redistribution, when it sits on a third party's site
+rather than the maker's own, when it is a section of a web page rather
+than a file, when it could not be read, or when its terms are not yet
+checked.
+
 ## How the files get here
 
 `scripts/build_manifest.py <timegrapher checkout>` lists the makers' files
-the calibre table links to (`manifest.json`). `scripts/fetch.py manifest.json`
+the calibre table links to (`manifest.json`), plus the files found by hand
+in `research/added-by-hand.json`. `scripts/fetch.py manifest.json`
 downloads them and writes the `source.json` records; with `--archive` it
 also asks the Wayback Machine for a copy of each. Re-running it skips files
 already recorded.

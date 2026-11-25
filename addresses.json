@@ -1,0 +1,643 @@
+[
+  {
+    "calibres": [
+      "ETA 2824-2"
+    ],
+    "kind": "manual",
+    "url": "https://portal.eta.ch/fr/technicaldocuments/index/pdf/id/1884/",
+    "what": "ETA technical communication, EN/ES/IT",
+    "checked": "2026-11-25",
+    "copyright": "ETA SA (site notice)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "ETA's portal refuses automated reading (robots.txt), and ETA's site notice reserves all rights (Astra's report, from the 2836-2 page; not re-read here)."
+  },
+  {
+    "calibres": [
+      "ETA 2834-2"
+    ],
+    "kind": "manual",
+    "url": "https://portal.eta.ch/fr/technicaldocuments/index/pdf/id/1882/",
+    "what": "ETA technical communication, EN/ES/IT",
+    "checked": "2026-11-25",
+    "copyright": "ETA SA (site notice)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "ETA's portal refuses automated reading (robots.txt), and ETA's site notice reserves all rights (Astra's report, from the 2836-2 page; not re-read here)."
+  },
+  {
+    "calibres": [
+      "ETA 2836-2"
+    ],
+    "kind": "spec sheet",
+    "url": "https://portal.eta.ch/en/mecaline/phased-out/2836-2-2836-2-5.html",
+    "what": "ETA 2836-2 technical specifications",
+    "checked": "2026-11-25",
+    "copyright": "ETA SA (site notice)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "ETA's portal refuses automated reading (robots.txt), and ETA's site notice reserves all rights (Astra's report, from the 2836-2 page; not re-read here)."
+  },
+  {
+    "calibres": [
+      "ETA 2892-A2"
+    ],
+    "kind": "manual",
+    "url": "https://portal.eta.ch/en/technicaldocuments/index/pdf/id/1649/",
+    "what": "ETA technical communication, EN/ES/IT",
+    "checked": "2026-11-25",
+    "copyright": "ETA SA (site notice)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "ETA's portal refuses automated reading (robots.txt), and ETA's site notice reserves all rights (Astra's report, from the 2836-2 page; not re-read here)."
+  },
+  {
+    "calibres": [
+      "Valjoux 7750"
+    ],
+    "kind": "manual",
+    "url": "https://portal.eta.ch/fr/technicaldocuments/index/pdf/id/2081/",
+    "what": "ETA Valjoux 7750 technical communication",
+    "checked": "2026-11-25",
+    "copyright": "ETA SA (site notice)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "ETA's portal refuses automated reading (robots.txt), and ETA's site notice reserves all rights (Astra's report, from the 2836-2 page; not re-read here)."
+  },
+  {
+    "calibres": [
+      "Unitas 6497-2"
+    ],
+    "kind": "manual",
+    "url": "https://portal.eta.ch/fr/technicaldocuments/index/pdf/id/1632/",
+    "what": "ETA 6497-2 technical communication, EN/ES/IT",
+    "checked": "2026-11-25",
+    "copyright": "ETA SA (site notice)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "ETA's portal refuses automated reading (robots.txt), and ETA's site notice reserves all rights (Astra's report, from the 2836-2 page; not re-read here)."
+  },
+  {
+    "calibres": [
+      "Sellita SW200-1"
+    ],
+    "kind": "manual",
+    "url": "https://www.sellita.ch/scripts/calibres/images/Brochure_technique-SW200-1_6.pdf",
+    "what": "Sellita SW200-1 dedicated technical documentation",
+    "checked": "2026-11-25",
+    "copyright": "Sellita Watch Co. S.A.",
+    "terms": "Ce document est confidentiel et appartient à SELLITA WATCH CO S.A. [...] il ne peut être ni copié, ni reproduit, ni distribué sans l'autorisation écrite préalable de SELLITA WATCH CO S.A.",
+    "terms_url": null,
+    "why_not_kept": "Could not be read (the fetch failed). Sellita's other technical documents in this batch carry the notice quoted, so this one is treated the same until read."
+  },
+  {
+    "calibres": [
+      "Sellita SW300-1"
+    ],
+    "kind": "manual",
+    "url": "https://www.sellita.ch/scripts/calibres/images/DocTec_SW300-1.pdf",
+    "what": "Sellita SW300-1 dedicated technical documentation",
+    "checked": "2026-11-25",
+    "copyright": "Sellita Watch Co. S.A.",
+    "terms": "Ce document est confidentiel et appartient à SELLITA WATCH CO S.A. [...] il ne peut être ni copié, ni reproduit, ni distribué sans l'autorisation écrite préalable de SELLITA WATCH CO S.A.",
+    "terms_url": null,
+    "why_not_kept": "Printed on the document's drawing sheets: no copying or distribution without Sellita's written permission."
+  },
+  {
+    "calibres": [
+      "Rolex 3135",
+      "Rolex 3155",
+      "Rolex 3175",
+      "Rolex 3185",
+      "Dandong 3135",
+      "VR3135",
+      "SH3135"
+    ],
+    "kind": "manual",
+    "url": "https://giacatwatch.com/wp-content/uploads/2024/03/CALIBER-3135-3155-3175-3185-TECHNICAL-INFORMATION-1.pdf",
+    "what": "Rolex technical information scan, hosted by Giacat Watch. Original Rolex 3135 for the clone rows",
+    "checked": "2026-11-25",
+    "copyright": "not stated (a maker's document on a third-party host)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission."
+  },
+  {
+    "calibres": [
+      "Rolex 3130"
+    ],
+    "kind": "drawing",
+    "url": "https://www.emmywatch.com/wp-content/plugins/watchsearch/inc/documents/rolex--3130--movement_parts.pdf",
+    "what": "EmmyWatch parts-site fallback, 3130 parts sheet",
+    "checked": "2026-11-25",
+    "copyright": "not stated (a maker's document on a third-party host)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission. The host also cannot be read automatically."
+  },
+  {
+    "calibres": [
+      "Rolex 4130",
+      "Dandong 4130",
+      "SH4130"
+    ],
+    "kind": "manual",
+    "url": "https://forum.uurwerkherstellers.nl/downloads/rolex4130.pdf",
+    "what": "Rolex technical information scan, hosted by the watch repair forum. Original Rolex 4130 for the clone rows",
+    "checked": "2026-11-25",
+    "copyright": "not stated (a maker's document on a third-party host)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission."
+  },
+  {
+    "calibres": [
+      "Rolex 3230",
+      "Dandong 3230",
+      "JH3230"
+    ],
+    "kind": "spec sheet",
+    "url": "https://www.rolex.com/en-us/watches/explorer/features#:~:text=Calibre%203230",
+    "what": "Rolex Calibre 3230 section. Original Rolex 3230 for the clone rows",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Rolex 3235",
+      "Dandong 3235",
+      "JH3235",
+      "SH3235",
+      "VR3235"
+    ],
+    "kind": "spec sheet",
+    "url": "https://content.rolex.com/dam/media/brochures/yacht-master/m226659-0002.pdf",
+    "what": "Rolex Yacht-Master 42 brochure, Movement section. Original Rolex 3235 for the clone rows",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Rolex 3255",
+      "Dandong 3255",
+      "JH3255"
+    ],
+    "kind": "spec sheet",
+    "url": "https://www.rolex.com/en-us/watches/day-date/features#:~:text=Calibre%203255",
+    "what": "Rolex Calibre 3255 section. Original Rolex 3255 for the clone rows",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Rolex 3285",
+      "Dandong 3285",
+      "JH3285",
+      "SH3285",
+      "VR3285"
+    ],
+    "kind": "spec sheet",
+    "url": "https://content.rolex.com/dam/media/brochures/gmt-master-ii/m126715chnr-0001.pdf",
+    "what": "Rolex GMT-Master II brochure, Movement section. Original Rolex 3285 for the clone rows",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Rolex 4131",
+      "Dandong 4131",
+      "SH4131"
+    ],
+    "kind": "spec sheet",
+    "url": "https://www.rolex.com/watches/cosmograph-daytona/features#:~:text=Calibre%204131",
+    "what": "Rolex Calibre 4131 section. Original Rolex 4131 for the clone rows",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Audemars Piguet 4302",
+      "SA4302"
+    ],
+    "kind": "spec sheet",
+    "url": "https://www.audemarspiguet.com/en/watch-collection/royal-oak/15500ST.OO.1220ST.01#:~:text=Calibre%204302",
+    "what": "AP Calibre 4302 specifications. Original AP 4302 for the clone row",
+    "checked": "2026-11-25",
+    "copyright": "Audemars Piguet",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "A section of a web page, not a file to keep."
+  },
+  {
+    "calibres": [
+      "Audemars Piguet 4401",
+      "SA4401"
+    ],
+    "kind": "spec sheet",
+    "url": "https://www.audemarspiguet.com/us/en/watch-collection/royal-oak/26240ST.OO.1320ST.06#:~:text=Calibre%204401",
+    "what": "AP Calibre 4401 specifications. Original AP 4401 for the clone row",
+    "checked": "2026-11-25",
+    "copyright": "Audemars Piguet",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "A section of a web page, not a file to keep."
+  },
+  {
+    "calibres": [
+      "Audemars Piguet 2121"
+    ],
+    "kind": "spec sheet",
+    "url": "https://apchronicles.audemarspiguet.com/en/calibre/2121#:~:text=Calibre%202121",
+    "what": "AP Chronicles, calibre specifications",
+    "checked": "2026-11-25",
+    "copyright": "Audemars Piguet",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "A section of a web page, not a file to keep."
+  },
+  {
+    "calibres": [
+      "Audemars Piguet 2121"
+    ],
+    "kind": "photo (dial side)",
+    "url": "https://apchronicles.audemarspiguet.com/en/calibre/2121#:~:text=Calibre%202121%2C%20dial%20side",
+    "what": "AP Archives image at the dial-side caption, movement 127053",
+    "checked": "2026-11-25",
+    "copyright": "Audemars Piguet (caption credit: Audemars Piguet Heritage / Archives)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The page states no terms and no licence. Audemars Piguet's own site terms were not checked in this pass, so the photos stay addresses until they are."
+  },
+  {
+    "calibres": [
+      "Audemars Piguet 2121"
+    ],
+    "kind": "photo (balance side)",
+    "url": "https://apchronicles.audemarspiguet.com/en/calibre/2121#:~:text=Calibres%202120%20and%202121%2C%20caseback%20side",
+    "what": "AP Archives image at the caseback-side caption, movement 127053",
+    "checked": "2026-11-25",
+    "copyright": "Audemars Piguet (caption credit: Audemars Piguet Heritage / Archives)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The page states no terms and no licence. Audemars Piguet's own site terms were not checked in this pass, so the photos stay addresses until they are."
+  },
+  {
+    "calibres": [
+      "Patek Philippe 324 S C",
+      "Dandong 324"
+    ],
+    "kind": "manual",
+    "url": "https://static.patek.com/pdf/instructionsforuse/PatekPhilippe_P767_Self_Winding_Movements.pdf#page=14",
+    "what": "Patek Philippe instructions and movement specifications. Original 324 S C for the clone row",
+    "checked": "2026-11-25",
+    "copyright": "Patek Philippe",
+    "terms": "You may not access, copy, download, rip, distribute, modify, republish, broadcast, embed into any other site, [...] without the prior written consent of Patek Philippe",
+    "terms_url": "https://www.patek.com/en/legal-notices/terms-and-conditions",
+    "why_not_kept": "Patek Philippe's terms forbid copying, downloading or distributing site content without its written consent."
+  },
+  {
+    "calibres": [
+      "Seiko NH35A"
+    ],
+    "kind": "manual",
+    "url": "https://www.timemodule.com/uploads/attachments/download/Technical%20Guide/NH35_TG.pdf",
+    "what": "Time Module NH3 technical guide, includes NH35A",
+    "checked": "2026-11-25",
+    "copyright": "Time Module Ltd.",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "Dead link: on 2026-11-25 it returned Time Module's home page, not the guide."
+  },
+  {
+    "calibres": [
+      "Seagull ST36"
+    ],
+    "kind": "spec sheet",
+    "url": "https://en.seagullwatch.com/products/small-second-movement-ty3600-st3600#:~:text=Technical%20Specifications",
+    "what": "Seagull ST3600 maker specifications",
+    "checked": "2026-11-25",
+    "copyright": "SEA-GULL Watch (footer: © 2026 SEA-GULL Watch)",
+    "terms": "You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service [...] without express written permission by us.",
+    "terms_url": "https://en.seagullwatch.com/policies/terms-of-service",
+    "why_not_kept": "Seagull's terms forbid copying any part of the site without its written permission."
+  },
+  {
+    "calibres": [
+      "Seagull ST2130"
+    ],
+    "kind": "spec sheet",
+    "url": "https://en.seagullwatch.com/products/hands-date-movement-ty2130-st2130#:~:text=Technical%20Specifications",
+    "what": "Seagull ST2130 maker specifications",
+    "checked": "2026-11-25",
+    "copyright": "SEA-GULL Watch (footer: © 2026 SEA-GULL Watch)",
+    "terms": "You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service [...] without express written permission by us.",
+    "terms_url": "https://en.seagullwatch.com/policies/terms-of-service",
+    "why_not_kept": "Seagull's terms forbid copying any part of the site without its written permission."
+  },
+  {
+    "calibres": [
+      "Seagull ST19"
+    ],
+    "kind": "spec sheet",
+    "url": "https://en.seagullwatch.com/products/seagull-journey-series-luminous-chronograph-sport-mens-mechanical-watch-2023",
+    "what": "Seagull ST1901 specifications",
+    "checked": "2026-11-25",
+    "copyright": "SEA-GULL Watch (footer: © 2026 SEA-GULL Watch)",
+    "terms": "You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service [...] without express written permission by us.",
+    "terms_url": "https://en.seagullwatch.com/policies/terms-of-service",
+    "why_not_kept": "A watch's product page, not the bare movement's; and Seagull's terms forbid copying."
+  },
+  {
+    "calibres": [
+      "Sellita SW220-1"
+    ],
+    "kind": "manual",
+    "url": "https://www.sellita.ch/scripts/calibres/images/DocTec_SW220-1.pdf",
+    "what": "Sellita SW220-1 dedicated technical documentation",
+    "checked": "2026-11-25",
+    "copyright": "Sellita Watch Co. S.A.",
+    "terms": "Ce document est confidentiel et appartient à SELLITA WATCH CO S.A. [...] il ne peut être ni copié, ni reproduit, ni distribué sans l'autorisation écrite préalable de SELLITA WATCH CO S.A.",
+    "terms_url": null,
+    "why_not_kept": "Printed on the document's drawing sheets: no copying or distribution without Sellita's written permission."
+  },
+  {
+    "calibres": [
+      "Sellita SW240-1"
+    ],
+    "kind": "manual",
+    "url": "https://www.sellita.ch/scripts/calibres/images/Brochure_technique-SW240-1_39.pdf",
+    "what": "Sellita SW240-1 dedicated technical documentation",
+    "checked": "2026-11-25",
+    "copyright": "Sellita Watch Co. S.A.",
+    "terms": "Ce document est confidentiel et appartient à SELLITA WATCH CO S.A. [...] il ne peut être ni copié, ni reproduit, ni distribué sans l'autorisation écrite préalable de SELLITA WATCH CO S.A.",
+    "terms_url": null,
+    "why_not_kept": "Printed on the document's drawing sheets: no copying or distribution without Sellita's written permission."
+  },
+  {
+    "calibres": [
+      "Rolex 3186",
+      "Dandong 3186",
+      "VR3186"
+    ],
+    "kind": "spec sheet",
+    "url": "https://device.report/m/6e4c47c472421a2856be96252e732cf69baa2e6e37b262f7c30ba9985e556cf0",
+    "what": "Rolex GMT-Master II brochure reproduced by Device Report. Original Rolex 3186 for the clone rows",
+    "checked": "2026-11-25",
+    "copyright": "Rolex (a Rolex brochure reproduced by a third party)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission."
+  },
+  {
+    "calibres": [
+      "Rolex 3187",
+      "Dandong 3187",
+      "VR3187"
+    ],
+    "kind": "spec sheet",
+    "url": "https://content.rolex.cn/dam/media/brochures/explorer/m216570-0001.pdf",
+    "what": "Rolex Explorer II model 216570 brochure, Movement section. Original Rolex 3187 for the clone rows",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Audemars Piguet 3120",
+      "SA3120"
+    ],
+    "kind": "spec sheet",
+    "url": "https://www.audemarspiguet.com/en/watch-collection/royal-oak/15450ST.OO.1256ST.02#:~:text=Calibre%203120",
+    "what": "AP Calibre 3120 specifications. Original AP 3120 for the clone row",
+    "checked": "2026-11-25",
+    "copyright": "Audemars Piguet",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "A section of a web page, not a file to keep."
+  },
+  {
+    "calibres": [
+      "Seiko 6R35"
+    ],
+    "kind": "manual",
+    "url": "https://www.spareparts-watches.com/_downloads/10a93a03c429628f5c102543915b7370",
+    "what": "Seiko 6R35A parts list and technical guide, hosted by parts supplier",
+    "checked": "2026-11-25",
+    "copyright": "not stated (a maker's document on a third-party host)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission."
+  },
+  {
+    "calibres": [
+      "Powermatic 80"
+    ],
+    "kind": "spec sheet",
+    "url": "https://pressroom.tissotwatches.com/powermatic80/?lang=en",
+    "what": "Tissot Powermatic 80 technical overview, press page",
+    "checked": "2026-11-25",
+    "copyright": "Tissot SA",
+    "terms": "© TISSOT SA - SWISS WATCHES SINCE 1853 - All rights reserved",
+    "terms_url": null,
+    "why_not_kept": "A press page with no stated licence for press material, and no file address on the page."
+  },
+  {
+    "calibres": [
+      "Rolex 3235"
+    ],
+    "kind": "photo (dial side)",
+    "url": "https://newsroom.rolex.com/watchmaking/features/movements#:~:text=Calibre%203235%20%E2%80%93%20dial%20side",
+    "what": "Rolex newsroom gallery, Calibre 3235 dial-side caption",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Content which is not incorporated into a Member's editorial products may not be stored in any temporary or permanent electronic database for future use or for other purposes unless agreed to in writing by Rolex.",
+    "terms_url": "https://newsroom.rolex.com/legal",
+    "why_not_kept": "The press room allows editorial use by its members only; storing its content for other purposes needs Rolex's written agreement."
+  },
+  {
+    "calibres": [
+      "Rolex 3230"
+    ],
+    "kind": "photo",
+    "url": "https://www.rolex.com/watches/air-king/features#:~:text=Calibre%203230",
+    "what": "Rolex gallery, image labelled Calibre 3230",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Rolex 3235"
+    ],
+    "kind": "photo",
+    "url": "https://www.rolex.com/watches/yacht-master/features#:~:text=Calibre%203235",
+    "what": "Rolex gallery, image labelled Calibre 3235",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Rolex 3255"
+    ],
+    "kind": "photo",
+    "url": "https://www.rolex.com/en-hk/watches/day-date/features#:~:text=Calibre%203255",
+    "what": "Rolex gallery, image labelled Calibre 3255",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Rolex 3285"
+    ],
+    "kind": "photo",
+    "url": "https://www.rolex.com/en-us/watches/gmt-master-ii/features#:~:text=Calibre%203285",
+    "what": "Rolex gallery, image labelled Calibre 3285",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Rolex 4131"
+    ],
+    "kind": "photo",
+    "url": "https://www.rolex.com/en-ca/watches/cosmograph-daytona/features#:~:text=Calibre%204131",
+    "what": "Rolex gallery, image labelled Calibre 4131",
+    "checked": "2026-11-25",
+    "copyright": "Rolex",
+    "terms": "Except as set forth herein, you may not copy, modify, upload, download, transmit, re-publish, display for redistribution [...] or otherwise distribute any Code or Content from the Website [...] without the prior written agreement of Rolex.",
+    "terms_url": "https://www.rolex.com/en-us/legal-notices/terms-of-use",
+    "why_not_kept": "Rolex's terms forbid copying or redistributing site content without its written agreement."
+  },
+  {
+    "calibres": [
+      "Seagull ST36"
+    ],
+    "kind": "photo",
+    "url": "https://en.seagullwatch.com/products/small-second-movement-ty3600-st3600",
+    "what": "Seagull ST3600 main bare-movement product image, maker gallery",
+    "checked": "2026-11-25",
+    "copyright": "SEA-GULL Watch (footer: © 2026 SEA-GULL Watch)",
+    "terms": "You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service [...] without express written permission by us.",
+    "terms_url": "https://en.seagullwatch.com/policies/terms-of-service",
+    "why_not_kept": "Seagull's terms forbid copying any part of the site without its written permission."
+  },
+  {
+    "calibres": [
+      "Seagull ST2130"
+    ],
+    "kind": "photo",
+    "url": "https://en.seagullwatch.com/products/hands-date-movement-ty2130-st2130",
+    "what": "Seagull ST2130 main bare-movement product image, maker gallery",
+    "checked": "2026-11-25",
+    "copyright": "SEA-GULL Watch (footer: © 2026 SEA-GULL Watch)",
+    "terms": "You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service [...] without express written permission by us.",
+    "terms_url": "https://en.seagullwatch.com/policies/terms-of-service",
+    "why_not_kept": "Seagull's terms forbid copying any part of the site without its written permission."
+  },
+  {
+    "calibres": [
+      "PTS DG2813"
+    ],
+    "kind": "spec sheet",
+    "url": "https://www.cousinsuk.com/sku/details/chinese-movements1/dg2813m?skuId=116503",
+    "what": "Cousins parts-site fallback, DG2813 technical product data",
+    "checked": "2026-11-25",
+    "copyright": "not stated (a parts dealer's page)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission."
+  },
+  {
+    "calibres": [
+      "PTS DG2813"
+    ],
+    "kind": "photo",
+    "url": "https://www.esslinger.com/chinese-mechanical-3-hand-watch-movement-dg2813-date-at-3-00-overall-height-7-5mm/",
+    "what": "Esslinger parts-site fallback, bare DG2813 product image",
+    "checked": "2026-11-25",
+    "copyright": "not stated (a parts dealer's page)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission."
+  },
+  {
+    "calibres": [
+      "ETA 2824-2"
+    ],
+    "kind": "photo (dial side)",
+    "url": "https://www.gnomonwatches.com/blogs/news/the-rise-of-the-swiss-engines#:~:text=Dial%20side%20view%20of%20ETA%202824-2",
+    "what": "Gnomon Watches dealer fallback, Dial side view of ETA 2824-2",
+    "checked": "2026-11-25",
+    "copyright": "not stated (a dealer's blog; the four photos carry no credit)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission. Whose photos these are is not stated."
+  },
+  {
+    "calibres": [
+      "ETA 2824-2"
+    ],
+    "kind": "photo (balance side)",
+    "url": "https://www.gnomonwatches.com/blogs/news/the-rise-of-the-swiss-engines#:~:text=Back%20view%20of%20ETA%202824-2",
+    "what": "Gnomon Watches dealer fallback, Back view of ETA 2824-2",
+    "checked": "2026-11-25",
+    "copyright": "not stated (a dealer's blog; the four photos carry no credit)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission. Whose photos these are is not stated."
+  },
+  {
+    "calibres": [
+      "Sellita SW200-1"
+    ],
+    "kind": "photo (dial side)",
+    "url": "https://www.gnomonwatches.com/blogs/news/the-rise-of-the-swiss-engines#:~:text=Dial%20side%20view%20of%20SW200-1",
+    "what": "Gnomon Watches dealer fallback, Dial side view of SW200-1",
+    "checked": "2026-11-25",
+    "copyright": "not stated (a dealer's blog; the four photos carry no credit)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission. Whose photos these are is not stated."
+  },
+  {
+    "calibres": [
+      "Sellita SW200-1"
+    ],
+    "kind": "photo (balance side)",
+    "url": "https://www.gnomonwatches.com/blogs/news/the-rise-of-the-swiss-engines#:~:text=Back%20view%20of%20SW200-1",
+    "what": "Gnomon Watches dealer fallback, Back view of SW200-1",
+    "checked": "2026-11-25",
+    "copyright": "not stated (a dealer's blog; the four photos carry no credit)",
+    "terms": null,
+    "terms_url": null,
+    "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission. Whose photos these are is not stated."
+  }
+]
