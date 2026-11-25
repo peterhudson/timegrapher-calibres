@@ -42,5 +42,18 @@
     "calibres": [
       "Miyota 9015"
     ]
+  },
+  {
+    "file": "download_1FUpfnXwkNVziBHT6c.pdf",
+    "kind": "spec sheet",
+    "url": "https://miyotamovement.com/uploads/download_1FUpfnXwkNVziBHT6c.pdf",
+    "fetched": "2026-11-25",
+    "archive": null,
+    "copyright": "Citizen (Miyota)",
+    "calibres": [
+      "Miyota 9015"
+    ],
+    "sha256": "da06f13bb8e7e8c64e35397b95c5ed037f1950708ec8297e888162acf6386d19",
+    "licence": "none stated; mirrored under this repository's maker-file rule (copyright stays with the maker; removed on request)"
   }
 ]

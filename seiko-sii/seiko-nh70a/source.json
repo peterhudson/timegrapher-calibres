@@ -1,0 +1,28 @@
+[
+  {
+    "file": "NH70_SS.pdf",
+    "kind": "spec sheet",
+    "url": "https://www.timemodule.com/upload/category/29/spec_sheet/NH70_SS.pdf",
+    "fetched": "2026-11-25",
+    "archive": null,
+    "copyright": "Time Module Ltd.",
+    "calibres": [
+      "Seiko NH70A"
+    ],
+    "sha256": "f20fca735a57667b31a30a4ae1caf3a3ec8a516eac01e00859f7b6ff85988892",
+    "licence": "none stated; mirrored under this repository's maker-file rule (copyright stays with the maker; removed on request)"
+  },
+  {
+    "file": "9d407109b4f5cc0ef20829cac81efe6dcbba1b2f3b77.gif",
+    "kind": "drawing",
+    "url": "https://www.timemodule.com/cache/img/9d407109b4f5cc0ef20829cac81efe6dcbba1b2f3b77.gif",
+    "fetched": "2026-11-25",
+    "archive": null,
+    "copyright": "Time Module Ltd.",
+    "calibres": [
+      "Seiko NH70A"
+    ],
+    "sha256": "68aada2ed9aa18099660ec2f111252596147e1e7b6dce985211e95c9c07ccf06",
+    "licence": "none stated; mirrored under this repository's maker-file rule (copyright stays with the maker; removed on request)"
+  }
+]

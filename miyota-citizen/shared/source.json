@@ -32,5 +32,23 @@
       "Miyota 9015",
       "Miyota 9075"
     ]
+  },
+  {
+    "file": "product_DL5HaZi8SJUNRdlQzK.pdf",
+    "kind": "spec sheet",
+    "url": "https://miyotamovement.com/uploads/product/product_DL5HaZi8SJUNRdlQzK.pdf",
+    "fetched": "2026-11-25",
+    "archive": null,
+    "copyright": "Citizen (Miyota)",
+    "calibres": [
+      "Miyota (Citizen) 9100",
+      "Miyota (Citizen) 9110",
+      "Miyota (Citizen) 9120",
+      "Miyota (Citizen) 9122",
+      "Miyota (Citizen) 9130",
+      "Miyota (Citizen) 9132"
+    ],
+    "sha256": "4a018c5d2447d3d64dc51e24b61b40b1a72a380441e8119489a5a2aee5fadbd6",
+    "licence": "none stated; mirrored under this repository's maker-file rule (copyright stays with the maker; removed on request)"
   }
 ]
