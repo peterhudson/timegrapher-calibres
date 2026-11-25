@@ -639,5 +639,18 @@
     "terms": null,
     "terms_url": null,
     "why_not_kept": "The host is not the maker and gives no licence; a copy here would redistribute someone else's work without permission. Whose photos these are is not stated."
+  },
+  {
+    "calibres": [
+      "Sellita SW200-1"
+    ],
+    "kind": "manual",
+    "url": "https://www.sellita.ch/scripts/calibres/images/DocTec_SW200-1_7.pdf",
+    "what": "Sellita SW200-1 technical documentation, revision 07 (cited by the calibre table; found in review of PR #9)",
+    "checked": "2026-11-25",
+    "copyright": "Sellita Watch Co. S.A.",
+    "terms": "Ce document est confidentiel et appartient à SELLITA WATCH CO S.A. [...] il ne peut être ni copié, ni reproduit, ni distribué sans l'autorisation écrite préalable de SELLITA WATCH CO S.A.",
+    "terms_url": null,
+    "why_not_kept": "Printed on the document's drawing sheets: no copying or distribution without Sellita's written permission."
   }
 ]

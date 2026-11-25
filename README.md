@@ -59,7 +59,9 @@ checked.
 
 `scripts/build_manifest.py <timegrapher checkout>` lists the makers' files
 the calibre table links to (`manifest.json`), plus the files found by hand
-in `research/added-by-hand.json`. `scripts/fetch.py manifest.json`
+in `research/added-by-hand.json`, leaving out every address in
+`addresses.json` (compared without its `#` fragment), even when the table
+cites it. `scripts/fetch.py manifest.json`
 downloads them and writes the `source.json` records; with `--archive` it
 also asks the Wayback Machine for a copy of each. Re-running it skips files
 already recorded.
