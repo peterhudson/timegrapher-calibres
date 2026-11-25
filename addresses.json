@@ -3620,9 +3620,7 @@
   },
   {
     "calibres": [
-      "Longines 345",
-      "Longines 340",
-      "Longines 342"
+      "Longines 340"
     ],
     "kind": "spec sheet",
     "url": "https://www.contatorideltempo.it/blog2018/wp-content/uploads/2024/12/Longines-340.pdf",
@@ -5870,7 +5868,6 @@
   },
   {
     "calibres": [
-      "Landeron 48",
       "Landeron 186"
     ],
     "kind": "manual",
