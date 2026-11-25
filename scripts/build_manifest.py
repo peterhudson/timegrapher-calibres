@@ -6,6 +6,7 @@ Reads the table's sources and the research link files, keeps files on the
 makers' own sites, and prints one entry per file with the folder it goes in.
 """
 import json
+import os
 import re
 import sys
 
@@ -91,5 +92,15 @@ for url, es in by_url.items():
     del e["calibre"]
     merged.append(e)
 out = merged
+# Files found by hand (for example from a calibre check report) that the
+# table's sources do not name; their records carry a "licence" note.
+root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+known = {e["url"] for e in out}
+out += [e for e in json.load(open(os.path.join(root, "research", "added-by-hand.json"), encoding="utf-8"))
+        if e["url"] not in known]
+# A file kept as an address only (addresses.json: its source forbids copying,
+# or it is not the maker's own) is never queued, even when the table cites it.
+address_only = {a["url"].split("#")[0] for a in json.load(open(os.path.join(root, "addresses.json"), encoding="utf-8"))}
+out = [e for e in out if e["url"].split("#")[0] not in address_only]
 json.dump(out, sys.stdout, indent=1, ensure_ascii=False)
 print(len(out), "files", file=sys.stderr)

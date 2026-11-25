@@ -1,0 +1,57 @@
+[
+ {
+  "folder": "miyota-citizen/shared",
+  "url": "https://miyotamovement.com/uploads/product/product_DL5HaZi8SJUNRdlQzK.pdf",
+  "kind": "manual",
+  "copyright": "Citizen (Miyota)",
+  "licence": "none stated; mirrored under this repository's maker-file rule (copyright stays with the maker; removed on request)",
+  "calibres": [
+   "Miyota (Citizen) 9100",
+   "Miyota (Citizen) 9110",
+   "Miyota (Citizen) 9120",
+   "Miyota (Citizen) 9122",
+   "Miyota (Citizen) 9130",
+   "Miyota (Citizen) 9132"
+  ]
+ },
+ {
+  "folder": "miyota-citizen/miyota-9015",
+  "url": "https://miyotamovement.com/uploads/download_1FUpfnXwkNVziBHT6c.pdf",
+  "kind": "spec sheet",
+  "copyright": "Citizen (Miyota)",
+  "licence": "none stated; mirrored under this repository's maker-file rule (copyright stays with the maker; removed on request)",
+  "calibres": [
+   "Miyota 9015"
+  ]
+ },
+ {
+  "folder": "seiko-sii/seiko-nh70a",
+  "url": "https://www.timemodule.com/upload/category/29/spec_sheet/NH70_SS.pdf",
+  "kind": "spec sheet",
+  "copyright": "Time Module Ltd.",
+  "licence": "none stated; mirrored under this repository's maker-file rule (copyright stays with the maker; removed on request)",
+  "calibres": [
+   "Seiko NH70A"
+  ]
+ },
+ {
+  "folder": "seiko-sii/seiko-nh70a",
+  "url": "https://www.timemodule.com/cache/img/9d407109b4f5cc0ef20829cac81efe6dcbba1b2f3b77.gif",
+  "kind": "photo",
+  "copyright": "Time Module Ltd.",
+  "licence": "none stated; mirrored under this repository's maker-file rule (copyright stays with the maker; removed on request)",
+  "calibres": [
+   "Seiko NH70A"
+  ]
+ },
+ {
+  "folder": "seiko-sii/seiko-nh35a",
+  "url": "https://www.timemodule.com/cache/img/fdd29d237a7c4d27baab51f17339064b77d6af7e57cb.gif",
+  "kind": "photo",
+  "copyright": "Time Module Ltd.",
+  "licence": "none stated; mirrored under this repository's maker-file rule (copyright stays with the maker; removed on request)",
+  "calibres": [
+   "Seiko NH35A"
+  ]
+ }
+]
